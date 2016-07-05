@@ -1,5 +1,4 @@
 # Servo-Valve
-
 3D printed housing for a Tower Pro MG995 servo and 1/4" SS ball valve, intened for use in a rocket test stand application, but could theoritically be used for anything.
 
 The code to run the valve works on a Arduino Duemilanove, the Uno is the same, or can be apapted to run what you have, valve is actuated from serial monitor inputs. Valve opening degrees may need to be adjusted to suit.
